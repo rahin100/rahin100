@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Rahin Islam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahin100&label=Profile%20views&color=0e75b6&style=flat" alt="rahin100" /> </p>
 
