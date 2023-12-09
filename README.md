@@ -4,14 +4,14 @@
 </div>
 
 <div>
-<p align="center" style="margin:20px" > <img src="https://komarev.com/ghpvc/?username=rahin100&label=Profile%20views&color=0e75b6&style=flat" alt="rahin100" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rahin100&label=Profile%20views&color=0e75b6&style=flat" alt="rahin100" /></p>
 </div>
 
 <div>
 <p align="center">I'm a web developer, my passion lies in crafting innovative websites. My goal is to become a successful professional in the field, continuously improving and creating exceptional digital experiences. </p>
 </div>
 
-<h3 style="margin-top: 50px;">Connect with me:</h3>
+<h3 >Connect with me:</h3>
 <p align="Center">
 <a href="https://www.linkedin.com/in/md-rahin-islam-86a511141/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/windev-contacts-2/512/linkedin-512.png" alt="https://www.linkedin.com/in/md-rahin-islam-86a511141/" height="50" width="50" /></a>
 <a href="https://www.facebook.com/rahinislam2/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" alt="https://www.facebook.com/rahinislam2/" height="50" width="50" /></a>
@@ -20,7 +20,7 @@
 
 
 <img  align="right" alt="Coding" width="400" src="https://i.ibb.co/T4YTLTD/UI-Developer.gif">
-<h3 style="margin-top: 50px;">Current Overview:</h3>
+<h3 >Current Overview:</h3>
 <div align="left">
 
 - 🌱 I’m currently learning **Next.Js**
@@ -42,7 +42,7 @@
 
 
 <h3 align="left">📊GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rahin100&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rahin100&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true"width="400"/></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahin100&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="rahin100" height="185"/></p><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahin100&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" width="1100" /></p>
