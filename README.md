@@ -24,7 +24,7 @@
 <br/>
 
 <img  align="right" alt="Coding" width="400" src="https://i.ibb.co/T4YTLTD/UI-Developer.gif">
-<h3 >Current Overview:</h3>
+<h2 >Current Overview:</h2>
 <div align="left">
 
 - 🌱 I’m currently learning **Next.Js**
@@ -41,7 +41,7 @@
 <br/>
 
 
-<h3 align="left">💻 Technologies that I know:</h3>
+<h2 align="left">💻 Technologies that I know:</h2>
 <br/>
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -59,7 +59,7 @@
 
 <br/>
 
-<h3 align="left">📊GitHub Stats:</h3>
+<h2 align="left">📊GitHub Stats:</h2>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rahin100&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" width="1100"/></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahin100&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="rahin100" width="1100"/></p>
