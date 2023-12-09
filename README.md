@@ -38,6 +38,24 @@
 - ⚡ Fun fact **Football fanatic, Madridista**
 </div>
 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <div style="width: 60%;">
+        <h2>Current Overview:</h2>
+
+        - 🌱 I’m currently learning **Next.Js**
+
+        - 💬 Ask me about **frontend related technologies**
+
+        - 📫 How to reach me: [rahinislam01@gmail.com](mailto:rahinislam01@gmail.com)
+
+        - 🤔 I am trying to **upgrade my skills**
+
+        - ⚡ Fun fact: **Football fanatic, Madridista**
+    </div>
+    
+    <img align="right" alt="Coding" width="400" src="https://i.ibb.co/T4YTLTD/UI-Developer.gif">
+</div>
+
 <br/>
 
 
