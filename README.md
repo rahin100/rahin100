@@ -14,6 +14,7 @@
 </div>
 
 <h3 >Connect with me:</h3>
+<br/>
 <p align="Center">
 <a href="https://www.linkedin.com/in/md-rahin-islam-86a511141/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/windev-contacts-2/512/linkedin-512.png" alt="https://www.linkedin.com/in/md-rahin-islam-86a511141/" height="50" width="50" /></a>
 <a href="https://www.facebook.com/rahinislam2/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" alt="https://www.facebook.com/rahinislam2/" height="50" width="50" /></a>
@@ -21,8 +22,9 @@
 </p>
 
 
-<img  align="right" alt="Coding" width="300" src="https://i.ibb.co/T4YTLTD/UI-Developer.gif">
+<img  align="right" alt="Coding" width="400" src="https://i.ibb.co/T4YTLTD/UI-Developer.gif">
 <h3 >Current Overview:</h3>
+<br/>
 <div align="left">
 
 - 🌱 I’m currently learning **Next.Js**
@@ -40,6 +42,7 @@
 
 
 <h3 align="left">💻 Technologies that I know:</h3>
+<br/>
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -53,17 +56,11 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-
 
 <br/>
 
 <h3 align="left">📊GitHub Stats:</h3>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rahin100&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" width="1100"/></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahin100&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="rahin100" width="1100"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahin100&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" width="1100" /></p>
