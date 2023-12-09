@@ -23,7 +23,8 @@
 
 <br/>
 
-<img  align="right" alt="Coding" width="400" src="https://i.ibb.co/T4YTLTD/UI-Developer.gif">
+<img  align="right" alt="Coding" width="450" src="https://i.ibb.co/T4YTLTD/UI-Developer.gif">
+<br/>
 <h3 >Current Overview:</h3>
 <br/>
 <div align="left">
