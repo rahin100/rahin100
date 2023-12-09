@@ -20,7 +20,7 @@
 
 
 <h3 style="margin-top: 50px;">Current Overview:</h3>
-<div style="display:flex">
+<div align="left">
 
 - 🌱 I’m currently learning **Next.Js**
 
@@ -32,7 +32,7 @@
 
 - ⚡ Fun fact **Football fanatic, Madridista**
 
-<img alt="Coding" width="400" src="https://i.ibb.co/T4YTLTD/UI-Developer.gif">
+<img  align="right" alt="Coding" width="400" src="https://i.ibb.co/T4YTLTD/UI-Developer.gif">
 </div>
 
 <h3 align="left" style="margin-top: 50px;">💻 Technologies that I know:</h3>
