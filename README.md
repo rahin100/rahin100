@@ -23,10 +23,9 @@
 
 <br/>
 
-<img  align="right" alt="Coding" width="450" src="https://i.ibb.co/T4YTLTD/UI-Developer.gif">
+<img  align="right" alt="Coding" width="400" src="https://i.ibb.co/T4YTLTD/UI-Developer.gif">
 <br/>
 <h3 >Current Overview:</h3>
-<br/>
 <div align="left">
 
 - 🌱 I’m currently learning **Next.Js**
@@ -46,16 +45,7 @@
 <h3 align="left">💻 Technologies that I know:</h3>
 <br/>
 <div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_css3-512.png" alt="css3" width="50" height="50"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://svgshare.com/i/10_8.svg" alt="express" width="50" height="50"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a></p>
 </div>
 
 
@@ -63,6 +53,6 @@
 
 <h3 align="left">📊GitHub Stats:</h3>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rahin100&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" width="1100"/></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahin100&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="rahin100" width="1100"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rahin100&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" width="550" height="300"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahin100&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="rahin100" width="550" height="300"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahin100&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" width="1100" /></p>
