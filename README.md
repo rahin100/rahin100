@@ -13,7 +13,7 @@
 <p align="center">I'm a dedicated web developer, my passion is crafting innovative websites. With expertise in React for frontend and Express.js for robust server-side applications, I utilize MongoDB for flexible data storage. Authentication is fortified with Firebase, ensuring secure and controlled access. Committed to continuous improvement, I strive to excel in delivering exceptional digital experiences.. </p>
 </div>
 
-<h3 >Connect with me:</h3>
+<h2 >Connect with me:</h2>
 <br/>
 <p align="Center">
 <a href="https://www.linkedin.com/in/md-rahin-islam-86a511141/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/windev-contacts-2/512/linkedin-512.png" alt="https://www.linkedin.com/in/md-rahin-islam-86a511141/" height="50" width="50" /></a>
