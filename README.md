@@ -21,6 +21,7 @@
 <a href="https://www.instagram.com/rahin_islam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rahin_islam/" height="50" width="50" /></a>
 </p>
 
+<br/>
 
 <img  align="right" alt="Coding" width="400" src="https://i.ibb.co/T4YTLTD/UI-Developer.gif">
 <h3 >Current Overview:</h3>
