@@ -10,7 +10,7 @@
 </div>
 
 <div>
-<p align="center">I'm a web developer, my passion lies in crafting innovative websites. My goal is to become a successful professional in the field, continuously improving and creating exceptional digital experiences. </p>
+<p align="center">I'm a dedicated web developer, my passion is crafting innovative websites. With expertise in React for frontend and Express.js for robust server-side applications, I utilize MongoDB for flexible data storage. Authentication is fortified with Firebase, ensuring secure and controlled access. Committed to continuous improvement, I strive to excel in delivering exceptional digital experiences.. </p>
 </div>
 
 <h3 >Connect with me:</h3>
