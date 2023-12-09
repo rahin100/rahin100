@@ -42,7 +42,7 @@
 
 
 <h3 align="left">📊GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rahin100&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true"width="400"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rahin100&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true"width="700"/></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahin100&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="rahin100" height="185"/></p><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahin100&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" width="1100" /></p>
