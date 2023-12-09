@@ -19,6 +19,7 @@
 </p>
 
 
+<img  align="right" alt="Coding" width="400" src="https://i.ibb.co/T4YTLTD/UI-Developer.gif">
 <h3 style="margin-top: 50px;">Current Overview:</h3>
 <div align="left">
 
@@ -31,8 +32,6 @@
 - 🤔 I am trying to **upgrade my skills** 
 
 - ⚡ Fun fact **Football fanatic, Madridista**
-
-<img  align="right" alt="Coding" width="400" src="https://i.ibb.co/T4YTLTD/UI-Developer.gif">
 </div>
 
 <h3 align="left" style="margin-top: 50px;">💻 Technologies that I know:</h3>
