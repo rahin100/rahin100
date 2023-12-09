@@ -19,7 +19,7 @@
 </p>
 
 
-<img  align="right" alt="Coding" width="400" src="https://i.ibb.co/T4YTLTD/UI-Developer.gif">
+<img  align="right" alt="Coding" width="300" src="https://i.ibb.co/T4YTLTD/UI-Developer.gif">
 <h3 >Current Overview:</h3>
 <div align="left">
 
