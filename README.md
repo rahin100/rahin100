@@ -26,15 +26,16 @@
 <img  align="right" alt="Coding" width="400" src="https://i.ibb.co/T4YTLTD/UI-Developer.gif">
 <h3 >Current Overview:</h3>
 <div align="left">
--🚀 Currently enhancing my skills in Next.js for even more dynamic web development.
 
--💡 Feel free to ask me about anything related to frontend technologies—I'm here to help!
+-🚀 Learning Next.js for advanced web development.
 
--📧 You can reach me at rahinislam01@gmail.com for collaboration or any inquiries.
+-💡 Ask me about frontend tech.
 
--🌐 Always on the lookout to upgrade my skills and stay at the forefront of web development trends.
+-📧 Reach me at rahinislam01@gmail.com.
 
--⚽ Fun fact: A devoted football fanatic, proudly supporting Madrid as a Madridista!
+-🌐 Committed to upgrading my skills.
+
+-⚽ Football fanatic, proud Madridista!
 </div>
 
 <br/>
