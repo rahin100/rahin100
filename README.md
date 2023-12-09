@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Rahin Islam</h1>
 <div id="header" align="center">
-  <a data-flickr-embed="true" href="https://www.flickr.com/photos/199458508@N05/53385755309/in/dateposted-public/" title="F837xTMxRJiyTzr8uSwvKA"><img src="https://live.staticflickr.com/65535/53385755309_84515a654d_o.jpg" width="1024" height="550" alt="F837xTMxRJiyTzr8uSwvKA"/></a>
+  <a data-flickr-embed="true" href="https://www.flickr.com/photos/199458508@N05/53385755309/in/dateposted-public/" title="F837xTMxRJiyTzr8uSwvKA"><img src="https://live.staticflickr.com/65535/53385755309_84515a654d_o.jpg" width="1024" height="480" alt="F837xTMxRJiyTzr8uSwvKA"/></a>
 </div>
 
 <br/> 
