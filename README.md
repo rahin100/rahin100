@@ -38,11 +38,6 @@
 - ⚡ Fun fact **Football fanatic, Madridista**
 </div>
 
-| <img align="right" alt="Coding" width="400" src="https://i.ibb.co/T4YTLTD/UI-Developer.gif"> | 
-| --- | --- |
-| 🌱 I’m currently learning **Next.Js**<br>💬 Ask me about **frontend related technologies**<br>📫 How to reach me: [rahinislam01@gmail.com](mailto:rahinislam01@gmail.com)<br>🤔 I am trying to **upgrade my skills**<br>⚡ Fun fact: **Football fanatic, Madridista**
-
-
 <br/>
 
 
