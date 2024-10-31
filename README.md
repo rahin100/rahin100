@@ -31,7 +31,7 @@
 
 -💡 Ask me about frontend tech.
 
--📧 Reach me at rahinislam01@gmail.com.
+-📧 Reach me at rahinislam002@gmail.com.
 
 -🌐 Committed to upgrading my skills.
 
